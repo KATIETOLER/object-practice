@@ -14,3 +14,12 @@ carSize: "Extra small! Very tiny car!",
 wheelNums: 4,
 
 }
+
+var customer = {
+
+name: "Karen",
+isAngry: true,
+willThrowObject: false,
+canAppease: false,
+
+}
